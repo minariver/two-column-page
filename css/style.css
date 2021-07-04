@@ -173,3 +173,11 @@ aside{
 .post-cat{
   margin-left: 120px;
 }
+
+article img {
+  margin-bottom: 20px;
+}
+
+article p {
+  margin-bottom: 1rem;
+}
