@@ -211,3 +211,9 @@ aside p {
 .sub-menu a:hover{
   color: #0bd;
 }
+
+@media (max-width: 600px){
+  h1{
+    color: #0bd;
+  }
+}
