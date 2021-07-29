@@ -230,4 +230,13 @@ aside p {
   flex-direction: column;
   align-items: center;
   }
+
+.news-contents{
+  flex-direction: column;
 }
+article,
+aside{
+  width: 100%;
+}
+}
+
